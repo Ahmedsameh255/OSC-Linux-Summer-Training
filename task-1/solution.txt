@@ -1,5 +1,5 @@
 mkdir Ahmed
-cd ahmed
+cd Ahmed
 touch one.txt two.txt three.txt four.txt
 mkdir BAD
 cd BAD
