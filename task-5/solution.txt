@@ -1,0 +1,2 @@
+grep -Eo "[a-z0-9A-Z\.]+@[a-z0-9A-Z]+\.[a-zA-Z]{2,}" ~/OSC-Linux-Summer-Training/task-5/info.csv | sort | uniq > ~/OSC-Linux-Summer-Training/task-5/email.txt
+ps -eo pid,cmd --sort=cmd > ~/OSC-Linux-Summer-Training/task-5/processes.txt
